@@ -30,7 +30,6 @@ API REST desenvolvida em **.NET 8** utilizando princípios de **Arquitetura Limp
    dotnet run
    ```
 4. O servidor web iniciará em segundo plano. Abra o seu navegador e acesse o painel visual do Swagger utilizando o endereço e a porta **localhost** gerados e exibidos na tela do seu terminal (ex: `/swagger/index.html`).
-5. 
 ## Status dos Testes Unitários
 
 *   **Camada de Testes Estruturada**: O projeto de testes `IdiomasApi.Tests` foi devidamente criado e acoplado à arquitetura da solução. 
